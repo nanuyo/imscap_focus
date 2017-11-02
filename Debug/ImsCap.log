@@ -1,0 +1,42 @@
+﻿  imscap.cpp
+c:\users\simon\desktop\source\imscameracap\imscap\resource.h(39): warning C4005: 'CREATEPROCESS_MANIFEST_RESOURCE_ID': 매크로 재정의
+  c:\program files (x86)\windows kits\8.1\include\um\winuser.h(254): note: 'CREATEPROCESS_MANIFEST_RESOURCE_ID'의 이전 정의를 참조하십시오.
+c:\users\simon\desktop\source\imscameracap\imscap\resource.h(40): warning C4005: 'MINIMUM_RESERVED_MANIFEST_RESOURCE_ID': 매크로 재정의
+  c:\program files (x86)\windows kits\8.1\include\um\winuser.h(257): note: 'MINIMUM_RESERVED_MANIFEST_RESOURCE_ID'의 이전 정의를 참조하십시오.
+c:\users\simon\desktop\source\imscameracap\imscap\resource.h(223): warning C4005: 'ISOLATIONAWARE_MANIFEST_RESOURCE_ID': 매크로 재정의
+  c:\program files (x86)\windows kits\8.1\include\um\winuser.h(255): note: 'ISOLATIONAWARE_MANIFEST_RESOURCE_ID'의 이전 정의를 참조하십시오.
+c:\users\simon\desktop\source\imscameracap\imscap\resource.h(312): warning C4005: 'ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID': 매크로 재정의
+  c:\program files (x86)\windows kits\8.1\include\um\winuser.h(256): note: 'ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID'의 이전 정의를 참조하십시오.
+c:\users\simon\desktop\source\imscameracap\imscap\resource.h(549): warning C4005: 'MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID': 매크로 재정의
+  c:\program files (x86)\windows kits\8.1\include\um\winuser.h(258): note: 'MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID'의 이전 정의를 참조하십시오.
+c:\users\simon\desktop\source\imscameracap\imscap\resource.h(620): warning C4005: 'RT_MANIFEST': 매크로 재정의
+  c:\program files (x86)\windows kits\8.1\include\um\winuser.h(253): note: 'RT_MANIFEST'의 이전 정의를 참조하십시오.
+c:\users\simon\desktop\source\imscameracap\imscap\resource.h(1171): warning C4005: 'WM_MOUSELAST': 매크로 재정의
+  c:\program files (x86)\windows kits\8.1\include\um\winuser.h(2183): note: 'WM_MOUSELAST'의 이전 정의를 참조하십시오.
+c:\users\simon\desktop\source\imscameracap\imscap\resource.h(1449): warning C4005: 'WINVER': 매크로 재정의
+  c:\program files (x86)\windows kits\8.1\include\shared\sdkddkver.h(215): note: 'WINVER'의 이전 정의를 참조하십시오.
+c:\users\simon\desktop\source\imscameracap\imscap\resource.h(1471): warning C4005: '_WIN32_WINNT': 매크로 재정의
+  c:\users\simon\desktop\source\imscameracap\imscap\stdafx.h(12): note: '_WIN32_WINNT'의 이전 정의를 참조하십시오.
+c:\users\simon\desktop\source\imscameracap\imscap\resource.h(1501): warning C4005: '_WIN32_IE': 매크로 재정의
+  c:\program files (x86)\windows kits\8.1\include\shared\sdkddkver.h(229): note: '_WIN32_IE'의 이전 정의를 참조하십시오.
+c:\users\simon\desktop\source\imscameracap\imscap\resource.h(1535): warning C4005: 'IDI_APPLICATION': 매크로 재정의
+  c:\program files (x86)\windows kits\8.1\include\um\winuser.h(10505): note: 'IDI_APPLICATION'의 이전 정의를 참조하십시오.
+c:\users\simon\desktop\source\imscameracap\imscap\resource.h(1538): warning C4005: 'IDI_HAND': 매크로 재정의
+  c:\program files (x86)\windows kits\8.1\include\um\winuser.h(10506): note: 'IDI_HAND'의 이전 정의를 참조하십시오.
+c:\users\simon\desktop\source\imscameracap\imscap\resource.h(1541): warning C4005: 'IDI_QUESTION': 매크로 재정의
+  c:\program files (x86)\windows kits\8.1\include\um\winuser.h(10507): note: 'IDI_QUESTION'의 이전 정의를 참조하십시오.
+c:\users\simon\desktop\source\imscameracap\imscap\resource.h(1544): warning C4005: 'IDI_EXCLAMATION': 매크로 재정의
+  c:\program files (x86)\windows kits\8.1\include\um\winuser.h(10508): note: 'IDI_EXCLAMATION'의 이전 정의를 참조하십시오.
+c:\users\simon\desktop\source\imscameracap\imscap\resource.h(1547): warning C4005: 'IDI_ASTERISK': 매크로 재정의
+  c:\program files (x86)\windows kits\8.1\include\um\winuser.h(10509): note: 'IDI_ASTERISK'의 이전 정의를 참조하십시오.
+c:\users\simon\desktop\source\imscameracap\imscap\resource.h(1549): warning C4005: 'IDI_WINLOGO': 매크로 재정의
+  c:\program files (x86)\windows kits\8.1\include\um\winuser.h(10511): note: 'IDI_WINLOGO'의 이전 정의를 참조하십시오.
+c:\users\simon\desktop\source\imscameracap\imscap\resource.h(1626): warning C4005: 'HTERROR': 매크로 재정의
+  c:\program files (x86)\windows kits\8.1\include\um\winuser.h(2459): note: 'HTERROR'의 이전 정의를 참조하십시오.
+c:\users\simon\desktop\source\imscameracap\imscap\resource.h(1628): warning C4005: 'PWR_FAIL': 매크로 재정의
+  c:\program files (x86)\windows kits\8.1\include\um\winuser.h(1980): note: 'PWR_FAIL'의 이전 정의를 참조하십시오.
+c:\users\simon\desktop\source\imscameracap\imscap\resource.h(1629): warning C4005: 'HTTRANSPARENT': 매크로 재정의
+  c:\program files (x86)\windows kits\8.1\include\um\winuser.h(2460): note: 'HTTRANSPARENT'의 이전 정의를 참조하십시오.
+c:\users\simon\desktop\source\imscameracap\imscap\imscap.cpp(272): warning C4101: 'dwByte' :참조되지 않은 지역 변수입니다.
+c:\users\simon\desktop\source\imscameracap\imscap\imscap.cpp(274): warning C4101: 'nRet' :참조되지 않은 지역 변수입니다.
+  ImsCap.vcxproj -> C:\Users\simon\Desktop\Source\IMSCameraCap\imscap\Debug\ImsCap.exe

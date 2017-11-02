@@ -1,0 +1,68 @@
+﻿  imscap.cpp
+d:\visualstudio\imscap_focus\resource.h(39): warning C4005: 'CREATEPROCESS_MANIFEST_RESOURCE_ID': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winuser.h(254): note: see previous definition of 'CREATEPROCESS_MANIFEST_RESOURCE_ID'
+d:\visualstudio\imscap_focus\resource.h(40): warning C4005: 'MINIMUM_RESERVED_MANIFEST_RESOURCE_ID': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winuser.h(257): note: see previous definition of 'MINIMUM_RESERVED_MANIFEST_RESOURCE_ID'
+d:\visualstudio\imscap_focus\resource.h(223): warning C4005: 'ISOLATIONAWARE_MANIFEST_RESOURCE_ID': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winuser.h(255): note: see previous definition of 'ISOLATIONAWARE_MANIFEST_RESOURCE_ID'
+d:\visualstudio\imscap_focus\resource.h(312): warning C4005: 'ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winuser.h(256): note: see previous definition of 'ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID'
+d:\visualstudio\imscap_focus\resource.h(549): warning C4005: 'MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winuser.h(258): note: see previous definition of 'MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID'
+d:\visualstudio\imscap_focus\resource.h(620): warning C4005: 'RT_MANIFEST': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winuser.h(253): note: see previous definition of 'RT_MANIFEST'
+d:\visualstudio\imscap_focus\resource.h(1172): warning C4005: 'WM_MOUSELAST': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winuser.h(2183): note: see previous definition of 'WM_MOUSELAST'
+d:\visualstudio\imscap_focus\resource.h(1450): warning C4005: 'WINVER': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\sdkddkver.h(215): note: see previous definition of 'WINVER'
+d:\visualstudio\imscap_focus\resource.h(1472): warning C4005: '_WIN32_WINNT': macro redefinition
+  d:\visualstudio\imscap_focus\stdafx.h(12): note: see previous definition of '_WIN32_WINNT'
+d:\visualstudio\imscap_focus\resource.h(1502): warning C4005: '_WIN32_IE': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\sdkddkver.h(229): note: see previous definition of '_WIN32_IE'
+d:\visualstudio\imscap_focus\resource.h(1536): warning C4005: 'IDI_APPLICATION': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winuser.h(10505): note: see previous definition of 'IDI_APPLICATION'
+d:\visualstudio\imscap_focus\resource.h(1539): warning C4005: 'IDI_HAND': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winuser.h(10506): note: see previous definition of 'IDI_HAND'
+d:\visualstudio\imscap_focus\resource.h(1542): warning C4005: 'IDI_QUESTION': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winuser.h(10507): note: see previous definition of 'IDI_QUESTION'
+d:\visualstudio\imscap_focus\resource.h(1545): warning C4005: 'IDI_EXCLAMATION': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winuser.h(10508): note: see previous definition of 'IDI_EXCLAMATION'
+d:\visualstudio\imscap_focus\resource.h(1548): warning C4005: 'IDI_ASTERISK': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winuser.h(10509): note: see previous definition of 'IDI_ASTERISK'
+d:\visualstudio\imscap_focus\resource.h(1550): warning C4005: 'IDI_WINLOGO': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winuser.h(10511): note: see previous definition of 'IDI_WINLOGO'
+d:\visualstudio\imscap_focus\resource.h(1627): warning C4005: 'HTERROR': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winuser.h(2459): note: see previous definition of 'HTERROR'
+d:\visualstudio\imscap_focus\resource.h(1629): warning C4005: 'PWR_FAIL': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winuser.h(1980): note: see previous definition of 'PWR_FAIL'
+d:\visualstudio\imscap_focus\resource.h(1630): warning C4005: 'HTTRANSPARENT': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winuser.h(2460): note: see previous definition of 'HTTRANSPARENT'
+imscap.cpp(302): warning C4101: 'dwByte': unreferenced local variable
+imscap.cpp(304): warning C4101: 'nRet': unreferenced local variable
+imscap.cpp(895): warning C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdlib.h(920): note: see declaration of 'mbstowcs'
+imscap.cpp(901): warning C4101: 'AFData': unreferenced local variable
+imscap.cpp(901): warning C4101: 'nAddress': unreferenced local variable
+  crossbar.cpp
+  SampleCGB.cpp
+  status.cpp
+  stdafx.cpp
+  Generating Code...
+resource.h(1103): warning RC4005: 'WM_KEYLAST' : redefinition
+  
+resource.h(1172): warning RC4005: 'WM_MOUSELAST' : redefinition
+  
+resource.h(1472): warning RC4005: '_WIN32_WINNT' : redefinition
+  
+resource.h(1502): warning RC4005: '_WIN32_IE' : redefinition
+  
+resource.h(1627): warning RC4005: 'HTERROR' : redefinition
+  
+resource.h(1629): warning RC4005: 'PWR_FAIL' : redefinition
+  
+resource.h(1630): warning RC4005: 'HTTRANSPARENT' : redefinition
+  
+Strmbase.lib(mtype.obj) : warning LNK4099: PDB 'BaseClasses.pdb' was not found with 'Strmbase.lib(mtype.obj)' or at 'D:\visualstudio\imscap_focus\Release\BaseClasses.pdb'; linking object as if no debug info
+Strmbase.lib(wxlist.obj) : warning LNK4099: PDB 'BaseClasses.pdb' was not found with 'Strmbase.lib(wxlist.obj)' or at 'D:\visualstudio\imscap_focus\Release\BaseClasses.pdb'; linking object as if no debug info
+  ImsCap.vcxproj -> D:\visualstudio\imscap_focus\Release\ImsCap.exe
+  ImsCap.vcxproj -> Release\ImsCap.pdb (Full PDB)
